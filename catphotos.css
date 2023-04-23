@@ -1,0 +1,48 @@
+.header{
+border:2.5px solid navy;
+color: navy;
+font-size: 12px;
+width: 283px;
+font-family: 'courier', monospace ;
+}
+    
+h2{
+    font-family: 'courier' , monospace;
+}
+.links{
+    background-color: darkblue;
+    padding: 20px;
+    font-size: 20;
+    width: 250px;
+    color: white;
+
+}
+
+ a: link{
+    color:white;
+}
+
+.footer a{
+ font-size: 15;
+ color:black;
+}
+
+body{
+    justify-content: center;
+    margin-left: 400px;
+}
+
+#empty{
+    background-color: darkblue;
+    padding: 5px; ;
+    width: 330px;
+}
+
+#copy{
+    margin-left: 190px; 
+    font-size: 14px;
+}
+
+#rsvp{
+    margin-left: 60px;
+}
