@@ -1,8 +1,8 @@
 .header{
-border:2.5px solid navy;
-color: navy;
-font-size: 12px;
-width: 283px;
+border:2.5px solid gray;
+color: gray;
+font-size: 14.5px;
+width: 320px;
 font-family: 'courier', monospace ;
 }
     
@@ -10,10 +10,10 @@ h2{
     font-family: 'courier' , monospace;
 }
 .links{
-    background-color: darkblue;
+    background-color: gray;
     padding: 20px;
     font-size: 20;
-    width: 250px;
+    width: 285px;
     color: white;
 
 }
