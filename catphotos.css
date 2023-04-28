@@ -1,5 +1,5 @@
 .header{
-border:2.5px solid darkgray;
+border:1.8px solid darkgray;
 color: darkgray;
 font-size: 14.5px;
 width: 320px;
@@ -33,13 +33,13 @@ body{
 }
 
 #empty{
-    background-color: darkblue;
+    background-color: gray;
     padding: 5px; ;
     width: 330px;
 }
 
 #copy{
-    margin-left: 190px; 
+    margin-left: 50px; 
     font-size: 14px;
 }
 
